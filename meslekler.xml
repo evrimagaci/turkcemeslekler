@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meslekler>
+   <meslek>Acentacı</meslek>
+   <meslek>Acente</meslek>
+   <meslek>Acil Durum Yönetmeni</meslek>
+   <meslek>Acil Tıp Teknisyeni</meslek>
+   <meslek>Adli Bilimci</meslek>
+   <meslek>Adli Kimyager</meslek>
+   <meslek>Adli Tabip</meslek>
+   <meslek>Agronomist</meslek>
+   <meslek>Ahşap Tekne Yapımcısı</meslek>
+   <meslek>Aile Hekimi</meslek>
+   <meslek>AirBnb Ev Sahibi</meslek>
+   <meslek>Akortçu</meslek>
+   <meslek>Aktar</meslek>
+   <meslek>Aktivist</meslek>
+   <meslek>Aktris</meslek>
+   <meslek>Aktör</meslek>
+   <meslek>Aktüer</meslek>
+   <meslek>Aktüerya</meslek>
+   <meslek>Akustikçi</meslek>
+   <meslek>Akışkanlar Fizikçisi</meslek>
+   <meslek>Alacak Tahsildarı</meslek>
+   <meslek>Alan Fizikçisi</meslek>
+   <meslek>Alan Teknisyeni</meslek>
+   <meslek>Alan Uygulamaları Uzmanı</meslek>
+   <meslek>Albay</meslek>
+   <meslek>Ambalajcı</meslek>
+   <meslek>Ambarcı</meslek>
+   <meslek>Ambulans Çalışanı</meslek>
+   <meslek>Ambulans şoförü</meslek>
+   <meslek>Amerikan Siyaset Bilimcisi</meslek>
+   <meslek>Amiral</meslek>
+   <meslek>Anahtarcı</meslek>
+   <meslek>Analist</meslek>
+   <meslek>Analitik Laboratuvar Teknisyeni</meslek>
+   <meslek>Analitik Servisler Kimyageri</meslek>
+   <meslek>Anatomist</meslek>
+   <meslek>Anestezi Teknikeri</meslek>
+   <meslek>Anestezi Uzmanı</meslek>
+   <meslek>Animatör</meslek>
+   <meslek>Anlatım Bilimci</meslek>
+   <meslek>Antik Felsefe Uzmanı</meslek>
+   <meslek>Antik Tarih Uzmanı</meslek>
+   <meslek>Antika Satıcısı</meslek>
+   <meslek>Antropolog</meslek>
+   <meslek>Apartman Görevlisi</meslek>
+   <meslek>Apartman Yöneticisi</meslek>
+   <meslek>Araba Satıcısı</meslek>
+   <meslek>Araba Tamircisi</meslek>
+   <meslek>Araba Yıkayıcısı</meslek>
+   <meslek>Arabacı</meslek>
+   <meslek>Arabulucu</meslek>
+   <meslek>Araştırma Asistanı</meslek>
+   <meslek>Araştırma Direktörü</meslek>
+   <meslek>Araştırma Ekip Lideri</meslek>
+   <meslek>Araştırma Kimyageri</meslek>
+   <meslek>Araştırma Teknisyeni</meslek>
+   <meslek>Araştırma ve Geliştirme (AR-GE) Çalışanı</meslek>
+   <meslek>Araştırma ve Geliştirme Direktörü</meslek>
+   <meslek>Araştırma ve Geliştirme Kimyageri</meslek>
+   <meslek>Araştırma ve Geliştirme Müdürü</meslek>
+   <meslek>Araştırma ve Geliştirme Teknisyeni</meslek>
+   <meslek>Araştırma ve İnovasyon Müdürü</meslek>
+   <meslek>Araştırmacı</meslek>
+   <meslek>Araştırıcı</meslek>
+   <meslek>Arka Site Geliştiricisi</meslek>
+   <meslek>Arkeolog</meslek>
+   <meslek>Armatör</meslek>
+   <meslek>Arpist</meslek>
+   <meslek>Artist</meslek>
+   <meslek>Arıcı</meslek>
+   <meslek>Arşivci</meslek>
+   <meslek>Asansör Yükleyici</meslek>
+   <meslek>Asansörcü</meslek>
+   <meslek>Asistan</meslek>
+   <meslek>Asker</meslek>
+   <meslek>Assay Geliştirme Uzmanı</meslek>
+   <meslek>Asteğmen</meslek>
+   <meslek>Astrobiyolog</meslek>
+   <meslek>Astrofizikçi</meslek>
+   <meslek>Astronom</meslek>
+   <meslek>Astronot</meslek>
+   <meslek>Astsubay</meslek>
+   <meslek>Astsubay Başçavuş</meslek>
+   <meslek>Astsubay Kıdemli Başçavuş</meslek>
+   <meslek>Astsubay Kıdemli Çavuş</meslek>
+   <meslek>Astsubay Kıdemli Üstçavuş</meslek>
+   <meslek>Astsubay Çavuş</meslek>
+   <meslek>Astsubay Üstçavuş</meslek>
+   <meslek>At Besicisi</meslek>
+   <meslek>Atlet</meslek>
+   <meslek>Atmosfer Bilimleri Uzmanı</meslek>
+   <meslek>Atomik Fizikçi</meslek>
+   <meslek>Av Bekçisi</meslek>
+   <meslek>Avcı</meslek>
+   <meslek>Avizeci</meslek>
+   <meslek>Avukat</meslek>
+   <meslek>Ayakkabı Boyacısı</meslek>
+   <meslek>Ayakkabı Tamircisi</meslek>
+   <meslek>Ayakkabıcı</meslek>
+   <meslek>Ayrıcalıklı Profesör</meslek>
+   <meslek>Ayı Oynatıcısı</meslek>
+   <meslek>Ağ yöneticisi</meslek>
+   <meslek>Aşçı</meslek>
+   <meslek>Aşçıbaşı</meslek>
+   <meslek>Bacacı</meslek>
+   <meslek>Badanacı</meslek>
+   <meslek>Baharatçı</meslek>
+   <meslek>Bahçe Bitkileri Uzmanı</meslek>
+   <meslek>Bahçıvan</meslek>
+   <meslek>Bakan</meslek>
+   <meslek>Bakkal</meslek>
+   <meslek>Bakteriyolog</meslek>
+   <meslek>Bakıcı</meslek>
+   <meslek>Bakım Asistanı</meslek>
+   <meslek>Bakırcı</meslek>
+   <meslek>Balon Pilotu</meslek>
+   <meslek>Balık Çiftliği Çalışanı</meslek>
+   <meslek>Balıkçı</meslek>
+   <meslek>Bankacı</meslek>
+   <meslek>Bankacılık Uzmanı</meslek>
+   <meslek>Banker</meslek>
+   <meslek>Barmen</meslek>
+   <meslek>Barmeyd</meslek>
+   <meslek>Basketbolcu</meslek>
+   <meslek>Basın Çalışanı</meslek>
+   <meslek>Baş Dinleme Müdürü (CLO)</meslek>
+   <meslek>Baş Editör</meslek>
+   <meslek>Baş Teknoloji Müdürü (CTO)</meslek>
+   <meslek>Baş Yönetim Müdürü (COO)</meslek>
+   <meslek>Başbakan</meslek>
+   <meslek>Başdümenci</meslek>
+   <meslek>Başhemşire</meslek>
+   <meslek>Başkan</meslek>
+   <meslek>Başkomiser</meslek>
+   <meslek>Başpiskopos</meslek>
+   <meslek>Başrahip</meslek>
+   <meslek>Başçavuş</meslek>
+   <meslek>Bebek Bakıcısı</meslek>
+   <meslek>Bekçi</meslek>
+   <meslek>Belediye Başkanı</meslek>
+   <meslek>Belediye Meclisi Üyesi</meslek>
+   <meslek>Benzinci</meslek>
+   <meslek>Berber</meslek>
+   <meslek>Besi Hayvancılığı İşçisi</meslek>
+   <meslek>Besicilik</meslek>
+   <meslek>Beslenme Bilimci</meslek>
+   <meslek>Besteci</meslek>
+   <meslek>Bestekar</meslek>
+   <meslek>Bilet Satıcısı</meslek>
+   <meslek>Biletçi</meslek>
+   <meslek>Bilgi İşlemci</meslek>
+   <meslek>Bilgisayar Ağ Yöneticisi</meslek>
+   <meslek>Bilgisayar Bilimleri Teorisyeni</meslek>
+   <meslek>Bilgisayar Mühendisi</meslek>
+   <meslek>Bilgisayar Programcısı</meslek>
+   <meslek>Bilgisayar Tamircisi</meslek>
+   <meslek>Bilim Ataşesi</meslek>
+   <meslek>Bilim Danışmanı</meslek>
+   <meslek>Bilim Programcısı</meslek>
+   <meslek>Bilim Sanatçısı</meslek>
+   <meslek>Bilim Teknisyeni</meslek>
+   <meslek>Bilim Yazarı</meslek>
+   <meslek>Bilim İnsanı</meslek>
+   <meslek>Bilimsel Proje Müdürü</meslek>
+   <meslek>Bilirkişi</meslek>
+   <meslek>Bilişsel (Kognitif) Psikolog</meslek>
+   <meslek>Bilişsel (Kognitif) Sinirbilimci</meslek>
+   <meslek>Binbaşı</meslek>
+   <meslek>Binicilik</meslek>
+   <meslek>Bioistatistikçi</meslek>
+   <meslek>Biracı</meslek>
+   <meslek>Bisikletçi</meslek>
+   <meslek>Bisküvici</meslek>
+   <meslek>Bitki Genetikçisi</meslek>
+   <meslek>Bitki Patologu</meslek>
+   <meslek>Bitki Yetiştiriciliği</meslek>
+   <meslek>Biyoanalitik Bilimci</meslek>
+   <meslek>Biyoenformatik Araştırmacısı</meslek>
+   <meslek>Biyofizikçi</meslek>
+   <meslek>Biyografi Yazarı</meslek>
+   <meslek>Biyokimyager</meslek>
+   <meslek>Biyolog</meslek>
+   <meslek>Biyoloji Profesörü</meslek>
+   <meslek>Biyolojik Antropolog</meslek>
+   <meslek>Biyolojik Psikolog</meslek>
+   <meslek>Biyomedikal Mühendisi</meslek>
+   <meslek>Biyomekanikçi</meslek>
+   <meslek>Biyometeorolog</meslek>
+   <meslek>Biyomoleküler Mühendis</meslek>
+   <meslek>Biyoteknolojist</meslek>
+   <meslek>Biyoölçüm Uzmanı</meslek>
+   <meslek>Blogger</meslek>
+   <meslek>Bobinajcı</meslek>
+   <meslek>Bomba İmhacı</meslek>
+   <meslek>Borsa Bankeri</meslek>
+   <meslek>Borsacı</meslek>
+   <meslek>Borucu</meslek>
+   <meslek>Botanikçi</meslek>
+   <meslek>Boyacı</meslek>
+   <meslek>Bozacı</meslek>
+   <meslek>Bulaşıkçı</meslek>
+   <meslek>Buldozer Operatörü</meslek>
+   <meslek>Bulut (Cloud) Mimarı</meslek>
+   <meslek>Bulut Sistem (Cloud) Uzmanı</meslek>
+   <meslek>Böcekbilimci (Entomolog)</meslek>
+   <meslek>Börekçi</meslek>
+   <meslek>Bütçe Uzmanı</meslek>
+   <meslek>Büyük Veri Analisti</meslek>
+   <meslek>Büyükelçi</meslek>
+   <meslek>Büyüme ve Gelişme Ekonomisti</meslek>
+   <meslek>Cam Dekorasyon Uzmanı</meslek>
+   <meslek>Cam Kesici</meslek>
+   <meslek>Cam Sanatçısı</meslek>
+   <meslek>Cam İşçisi</meslek>
+   <meslek>Camcı</meslek>
+   <meslek>Cebirsel Geometri Uzmanı</meslek>
+   <meslek>Celep</meslek>
+   <meslek>Cellat</meslek>
+   <meslek>Cenaze İşleri Çalışanı</meslek>
+   <meslek>Centilmen Bilimci (Hobi Bilimcisi)</meslek>
+   <meslek>Cerrah</meslek>
+   <meslek>Ceza Avukatı</meslek>
+   <meslek>Cillopçu (Misketçi)</meslek>
+   <meslek>Cost Control</meslek>
+   <meslek>Cumhurbaşkanı</meslek>
+   <meslek>Dadı</meslek>
+   <meslek>Daktilograf</meslek>
+   <meslek>Dalgıç</meslek>
+   <meslek>Damıtıcı</meslek>
+   <meslek>Dans Sanatçısı</meslek>
+   <meslek>Dansöz</meslek>
+   <meslek>Danışman</meslek>
+   <meslek>Davranış Bilimci</meslek>
+   <meslek>Davranışsal Ekonomist</meslek>
+   <meslek>Davulcu</meslek>
+   <meslek>Debbağ</meslek>
+   <meslek>Dedektif</meslek>
+   <meslek>Dekoratör</meslek>
+   <meslek>Demirci</meslek>
+   <meslek>Demiryolu Elektrisyeni</meslek>
+   <meslek>Demiryolu Çalışanı</meslek>
+   <meslek>Demiryolu İşçisi</meslek>
+   <meslek>Demografik Satıcı</meslek>
+   <meslek>Dendrolog</meslek>
+   <meslek>Denetim Müdürü</meslek>
+   <meslek>Denetleyici</meslek>
+   <meslek>Denetmen</meslek>
+   <meslek>Denetçi</meslek>
+   <meslek>Deneysel Evrimsel Biyolog</meslek>
+   <meslek>Deneysel Fizikçi</meslek>
+   <meslek>Deniz Mühendisi</meslek>
+   <meslek>Denizci</meslek>
+   <meslek>Deontolog</meslek>
+   <meslek>Depocu</meslek>
+   <meslek>Derici</meslek>
+   <meslek>Derin Öğrenme Uzmanı</meslek>
+   <meslek>Dermatolog</meslek>
+   <meslek>Desinatör</meslek>
+   <meslek>Devlet Memuru</meslek>
+   <meslek>Değirmen İşçisi</meslek>
+   <meslek>Değirmenci</meslek>
+   <meslek>Dijital Pazarlama Uzmanı</meslek>
+   <meslek>Dil Bilimci</meslek>
+   <meslek>Dil Uzmanı</meslek>
+   <meslek>Dilci</meslek>
+   <meslek>Dilenci</meslek>
+   <meslek>Diplomat</meslek>
+   <meslek>Disk Jockey (DJ)</meslek>
+   <meslek>Diyabet Bilimci</meslek>
+   <meslek>Diyalekt Bilimci</meslek>
+   <meslek>Diyetisyen</meslek>
+   <meslek>Dizgici</meslek>
+   <meslek>Diş Cerrahı</meslek>
+   <meslek>Diş Hekimi</meslek>
+   <meslek>Diş Teknisyeni</meslek>
+   <meslek>Dok İşçisi</meslek>
+   <meslek>Doktor</meslek>
+   <meslek>Doku Mühendisi</meslek>
+   <meslek>Dokumacı</meslek>
+   <meslek>Donanım Tasarımcısı</meslek>
+   <meslek>Dondurmacı</meslek>
+   <meslek>Doçent</meslek>
+   <meslek>Doğa Bilimci</meslek>
+   <meslek>Doğa Fotoğrafçısı</meslek>
+   <meslek>Doğa Koruyucusu</meslek>
+   <meslek>Doğa Rehberi</meslek>
+   <meslek>Doğalgazcı</meslek>
+   <meslek>Doğramacı</meslek>
+   <meslek>Doğum Uzmanı</meslek>
+   <meslek>Drone Operatörü</meslek>
+   <meslek>Dublajcı</meslek>
+   <meslek>Duvarcı</meslek>
+   <meslek>Dökümcü</meslek>
+   <meslek>Dönerci</meslek>
+   <meslek>Dövizci</meslek>
+   <meslek>Döşemeci</meslek>
+   <meslek>Dükkan İşleticisi</meslek>
+   <meslek>Dümenci</meslek>
+   <meslek>Dürümcü</meslek>
+   <meslek>Düzenleme İşleri Müdürü</meslek>
+   <meslek>Düğmeci</meslek>
+   <meslek>Dış Mimar</meslek>
+   <meslek>E-sporcu</meslek>
+   <meslek>Ebe (Kadın Doğum)</meslek>
+   <meslek>Eczacı</meslek>
+   <meslek>Eczacı Kalfası</meslek>
+   <meslek>Editör</meslek>
+   <meslek>Ehliyet Kursu Görevlisi</meslek>
+   <meslek>Ekolog</meslek>
+   <meslek>Ekonometrist</meslek>
+   <meslek>Ekonomi Teorisyeni</meslek>
+   <meslek>Ekonomist</meslek>
+   <meslek>El İşçisi</meslek>
+   <meslek>Elektrik Ekipmanı Denetçisi</meslek>
+   <meslek>Elektrik Mühendisi</meslek>
+   <meslek>Elektrik-Elektronik Mühendisi</meslek>
+   <meslek>Elektrikçi</meslek>
+   <meslek>Elektrisyen</meslek>
+   <meslek>Elektrolog</meslek>
+   <meslek>Elektronik Mühendisi</meslek>
+   <meslek>Elektronik ve Haberleşme Mühendisi</meslek>
+   <meslek>Eleştirmen</meslek>
+   <meslek>Embriyolog</meslek>
+   <meslek>Emlakçı</meslek>
+   <meslek>Emniyet Amiri</meslek>
+   <meslek>Emniyet Genel Müdürü</meslek>
+   <meslek>Endokrinolog</meslek>
+   <meslek>Endüstri Mühendisi</meslek>
+   <meslek>Endüstri Sistemleri Mühendisi</meslek>
+   <meslek>Endüstriyel Ekonomist</meslek>
+   <meslek>Endüstriyel Tasarımcı</meslek>
+   <meslek>Enstrüman İmalatçısı</meslek>
+   <meslek>Enzim Bilimci</meslek>
+   <meslek>Epidemiyolog</meslek>
+   <meslek>Epistemolog</meslek>
+   <meslek>Ergonomist</meslek>
+   <meslek>Eskici</meslek>
+   <meslek>Estetisyen</meslek>
+   <meslek>Etimolog</meslek>
+   <meslek>Etnolog</meslek>
+   <meslek>Etnomüzikolog</meslek>
+   <meslek>Etolog (Hayvan Davranışı Bilimcisi)</meslek>
+   <meslek>Ev Sahibi</meslek>
+   <meslek>Ev hanımı</meslek>
+   <meslek>Evcil Hayvan Uzmanı</meslek>
+   <meslek>Evcil Hayvan Yetiştiricisi</meslek>
+   <meslek>Evrimsel Algoritma Araştırmacısı</meslek>
+   <meslek>Evrimsel Biyolog</meslek>
+   <meslek>Evrimsel Ekolog</meslek>
+   <meslek>Evrimsel Ekonomist</meslek>
+   <meslek>Evrimsel Fizyolog</meslek>
+   <meslek>Evrimsel Gelişimsel Biyolog</meslek>
+   <meslek>Evrimsel Mühendis</meslek>
+   <meslek>Evrimsel Robotikçi</meslek>
+   <meslek>Evrimsel Sinirbilimci</meslek>
+   <meslek>Eğitim Danışmanı</meslek>
+   <meslek>Eğitim Metotları Uzmanı</meslek>
+   <meslek>Eğitim Teknolojisti</meslek>
+   <meslek>Eğitimci</meslek>
+   <meslek>Eğitmen</meslek>
+   <meslek>Fabrika İşçisi</meslek>
+   <meslek>Fahişe</meslek>
+   <meslek>Farmakolog</meslek>
+   <meslek>Fatura Memuru</meslek>
+   <meslek>Fenomenolog</meslek>
+   <meslek>Fermantasyon İşçisi</meslek>
+   <meslek>Figüran</meslek>
+   <meslek>Fikolog</meslek>
+   <meslek>Film Yapımcısı</meslek>
+   <meslek>Film Yönetmeni</meslek>
+   <meslek>Filogenetikçi</meslek>
+   <meslek>Filolog</meslek>
+   <meslek>Filozof</meslek>
+   <meslek>Finansal Analist</meslek>
+   <meslek>Finansör</meslek>
+   <meslek>Fitopatolog</meslek>
+   <meslek>Fitososyolog</meslek>
+   <meslek>Fiziksel Antropolog</meslek>
+   <meslek>Fizikçi</meslek>
+   <meslek>Fizyolog</meslek>
+   <meslek>Fizyonomist</meslek>
+   <meslek>Fizyopatolog</meslek>
+   <meslek>Fizyoterapist</meslek>
+   <meslek>Fon Toplayıcı</meslek>
+   <meslek>Fon Yazarı</meslek>
+   <meslek>Fon Yöneticisi</meslek>
+   <meslek>Fonolog</meslek>
+   <meslek>Forklift Operatörü</meslek>
+   <meslek>Fotojeolog</meslek>
+   <meslek>Fotoğrafçı</meslek>
+   <meslek>Freelancer</meslek>
+   <meslek>Futbolcu</meslek>
+   <meslek>Fırıncı</meslek>
+   <meslek>Fıçıcı</meslek>
+   <meslek>Galerici</meslek>
+   <meslek>Gardiyan</meslek>
+   <meslek>Garson</meslek>
+   <meslek>Gazete Dağıtıcısı</meslek>
+   <meslek>Gazete Satıcısı</meslek>
+   <meslek>Gazeteci</meslek>
+   <meslek>Gazeteci Yazar</meslek>
+   <meslek>Gelecek Bilimci (Fütürolog)</meslek>
+   <meslek>Gelir Uzman Yardımcısı</meslek>
+   <meslek>Gelir Uzmanı</meslek>
+   <meslek>Gelişimsel Biyolog</meslek>
+   <meslek>Gelişimsel Psikolog</meslek>
+   <meslek>Geliştirme Teknolojisti</meslek>
+   <meslek>Gemici</meslek>
+   <meslek>Gen Düzenleme Yöneticisi</meslek>
+   <meslek>Genel Yayın Yönetmeni</meslek>
+   <meslek>Genelkurmay Başkanı</meslek>
+   <meslek>General</meslek>
+   <meslek>Genetik Danışmanı</meslek>
+   <meslek>Genetik Mühendisi</meslek>
+   <meslek>Genetiği Değiştirilmiş Organizma (GDO) Uzmanı</meslek>
+   <meslek>Gerontolog</meslek>
+   <meslek>Geyşa</meslek>
+   <meslek>Gezegen Bilimci</meslek>
+   <meslek>Gezgin</meslek>
+   <meslek>Gezici Vaiz</meslek>
+   <meslek>Gitarist</meslek>
+   <meslek>Gondolcu</meslek>
+   <meslek>Grafiker</meslek>
+   <meslek>Gramer Uzmanı</meslek>
+   <meslek>Greyder Operatörü</meslek>
+   <meslek>Gökbilimci</meslek>
+   <meslek>Görelilik Fizikçisi</meslek>
+   <meslek>Görsel/Ses Uzmanı</meslek>
+   <meslek>Göz Doktoru</meslek>
+   <meslek>Gözetmen</meslek>
+   <meslek>Gözlükçü</meslek>
+   <meslek>Güfteci</meslek>
+   <meslek>Gümrük Görevlisi</meslek>
+   <meslek>Gümrük Memuru</meslek>
+   <meslek>Gümrük Müşavir Yardımcısı</meslek>
+   <meslek>Gümrük Müşaviri</meslek>
+   <meslek>Gümrük Uzmanı</meslek>
+   <meslek>Gündelikçi</meslek>
+   <meslek>Güvenlik Görevlisi</meslek>
+   <meslek>Güvenlik Müdürü</meslek>
+   <meslek>Güvenlik Mühendisi</meslek>
+   <meslek>Güvenlik Veri Analisti</meslek>
+   <meslek>Güvenlikçi</meslek>
+   <meslek>Güzel Sanatçı</meslek>
+   <meslek>Güzellik Uzmanı</meslek>
+   <meslek>Gıda Biyoteknolojisti</meslek>
+   <meslek>Gıda Kimyageri</meslek>
+   <meslek>Gıda Mikrobiyologu</meslek>
+   <meslek>Gıda Mühendisi</meslek>
+   <meslek>Haberci</meslek>
+   <meslek>Haddeci</meslek>
+   <meslek>Haham</meslek>
+   <meslek>Hakem</meslek>
+   <meslek>Halk Ekonomisti</meslek>
+   <meslek>Halk Sağlığı Uzmanı</meslek>
+   <meslek>Halkbilimci</meslek>
+   <meslek>Halıcı</meslek>
+   <meslek>Hamal</meslek>
+   <meslek>Hamamcı</meslek>
+   <meslek>Hamurkâr</meslek>
+   <meslek>Hareket Memuru</meslek>
+   <meslek>Harita Mühendisi</meslek>
+   <meslek>Haritacı</meslek>
+   <meslek>Hastabakıcı</meslek>
+   <meslek>Hastane Araştırma Asistanı</meslek>
+   <meslek>Hastane Mali Analisti</meslek>
+   <meslek>Hattat</meslek>
+   <meslek>Hava Trafik Kontrolörü</meslek>
+   <meslek>Hava Trafikçisi</meslek>
+   <meslek>Hava Trafiği Güvenlik Teknisyeni</meslek>
+   <meslek>Havacı</meslek>
+   <meslek>Havacılık ve Uzay Mühendisi</meslek>
+   <meslek>Hayvan Bakıcısı</meslek>
+   <meslek>Hayvan Beslenmesi Uzmanı</meslek>
+   <meslek>Hayvan Teknisyeni</meslek>
+   <meslek>Hayvan Terbiyecisi</meslek>
+   <meslek>Hayvanat Bahçesi Çalışanı</meslek>
+   <meslek>Hekim Asistanı</meslek>
+   <meslek>Hematolog</meslek>
+   <meslek>Hemşire</meslek>
+   <meslek>Herpetolog</meslek>
+   <meslek>Hesap Denetçisi</meslek>
+   <meslek>Hesap Uzmanı</meslek>
+   <meslek>Hesaplama Bilimcisi</meslek>
+   <meslek>Hesaplamalı Dilbilimci</meslek>
+   <meslek>Hesaplamalı Evrimsel Biyolog</meslek>
+   <meslek>Hesaplamalı Filogenetikçi</meslek>
+   <meslek>Hesaplamalı Kimya Yöneticisi</meslek>
+   <meslek>Hesaplamalı Sinirbilimci</meslek>
+   <meslek>Heykeltıraş</meslek>
+   <meslek>Hidrobiyolog</meslek>
+   <meslek>Hidrolikçi</meslek>
+   <meslek>Hidrolog</meslek>
+   <meslek>Histofizyolog</meslek>
+   <meslek>Histopatolog</meslek>
+   <meslek>Hizmetli</meslek>
+   <meslek>Hizmetçi</meslek>
+   <meslek>Hokkabaz</meslek>
+   <meslek>Host</meslek>
+   <meslek>Hostes</meslek>
+   <meslek>Hukukçu</meslek>
+   <meslek>Hurdacı</meslek>
+   <meslek>Hücre Biyologu</meslek>
+   <meslek>Hücre Hattı Geliştirme Yöneticisi</meslek>
+   <meslek>Hücre Mühendisi</meslek>
+   <meslek>Hırdavatçı</meslek>
+   <meslek>IT</meslek>
+   <meslek>IT Destek Elemanı</meslek>
+   <meslek>Intranet Uzmanı</meslek>
+   <meslek>Irgat</meslek>
+   <meslek>Irk ve Etnisite Sosyologu</meslek>
+   <meslek>Işıkçı</meslek>
+   <meslek>Jeofizik Mühendisi</meslek>
+   <meslek>Jeohidrolog</meslek>
+   <meslek>Jeokronolog</meslek>
+   <meslek>Jeolog</meslek>
+   <meslek>Jeoloji Mühendisi</meslek>
+   <meslek>Jeomorfolog</meslek>
+   <meslek>Jimnastikçi</meslek>
+   <meslek>Jinekolog</meslek>
+   <meslek>Jokey</meslek>
+   <meslek>Jüri</meslek>
+   <meslek>Kabin Görevlisi</meslek>
+   <meslek>Kabuk Soyucusu</meslek>
+   <meslek>Kadın Berberi</meslek>
+   <meslek>Kadın Doğum Uzmanı</meslek>
+   <meslek>Kadın Hastalıkları Uzmanı</meslek>
+   <meslek>Kadın Terzisi</meslek>
+   <meslek>Kahveci</meslek>
+   <meslek>Kalaycı</meslek>
+   <meslek>Kalem Müdürü</meslek>
+   <meslek>Kalite Asistanı</meslek>
+   <meslek>Kalite Garanti Müdürü</meslek>
+   <meslek>Kalite Garanti Teknolojisti</meslek>
+   <meslek>Kalite Kontrol Analisti</meslek>
+   <meslek>Kalite Kontrol Müdürü</meslek>
+   <meslek>Kaloriferci</meslek>
+   <meslek>Kalp ve Damar Uzmanı</meslek>
+   <meslek>Kalıpçı</meslek>
+   <meslek>Kamarot</meslek>
+   <meslek>Kamera Mekaniği</meslek>
+   <meslek>Kameraman</meslek>
+   <meslek>Kamusal Bilim İnsanı</meslek>
+   <meslek>Kamyoncu</meslek>
+   <meslek>Kaplamacı</meslek>
+   <meslek>Kaportacı</meslek>
+   <meslek>Kaptan</meslek>
+   <meslek>Kapı Satıcısı</meslek>
+   <meslek>Kapıcı</meslek>
+   <meslek>Kardinal</meslek>
+   <meslek>Kardiyolog</meslek>
+   <meslek>Karikatürist</meslek>
+   <meslek>Kariyer Diplomatı</meslek>
+   <meslek>Kariyer Yönlendirme Danışmanı</meslek>
+   <meslek>Karoserci</meslek>
+   <meslek>Karpuzcu</meslek>
+   <meslek>Kartograf</meslek>
+   <meslek>Karşılaştırmalı Anatomist</meslek>
+   <meslek>Karşılaştırmalı Dilbilimci</meslek>
+   <meslek>Karşılaştırmalı Politika Uzmanı</meslek>
+   <meslek>Kasap</meslek>
+   <meslek>Kasiyer</meslek>
+   <meslek>Kat Görevlisi</meslek>
+   <meslek>Katı Atık Teknisyeni</meslek>
+   <meslek>Katı Hal Fizikçisi</meslek>
+   <meslek>Kaymakam</meslek>
+   <meslek>Kaynak Ekonomisti</meslek>
+   <meslek>Kaynakçı</meslek>
+   <meslek>Kayıkçı</meslek>
+   <meslek>Kayıtçı</meslek>
+   <meslek>Kazıcı</meslek>
+   <meslek>Kebapçı</meslek>
+   <meslek>Kemancı</meslek>
+   <meslek>Kesimci</meslek>
+   <meslek>Kimya Mühendisi</meslek>
+   <meslek>Kimya Teknisyeni</meslek>
+   <meslek>Kimyager</meslek>
+   <meslek>Kitap Koçu</meslek>
+   <meslek>Kitapçı</meslek>
+   <meslek>Kitlesel İletişim Uzmanı</meslek>
+   <meslek>Klarnetçi</meslek>
+   <meslek>Klasik Arkeolog</meslek>
+   <meslek>Klasik Edebiyatçı</meslek>
+   <meslek>Klimatolog (İklim Bilimci)</meslek>
+   <meslek>Klinik Araştırma Koordinatörü</meslek>
+   <meslek>Klinik Ecza Asistanı</meslek>
+   <meslek>Klinik Farmakoloji Profesörü</meslek>
+   <meslek>Klinik Veri Araştırmacısı</meslek>
+   <meslek>Koleksiyoncu</meslek>
+   <meslek>Komedyen</meslek>
+   <meslek>Komiser</meslek>
+   <meslek>Komiser Yardımcısı</meslek>
+   <meslek>Komisyoncu</meslek>
+   <meslek>Konserveci</meslek>
+   <meslek>Konsolos</meslek>
+   <meslek>Konsomatris</meslek>
+   <meslek>Kontrolör</meslek>
+   <meslek>Konuşma Uzmanı</meslek>
+   <meslek>Konuşma Yazarı</meslek>
+   <meslek>Konveyör Operatörü</meslek>
+   <meslek>Kopya Editörü</meslek>
+   <meslek>Kopyalayıcı</meslek>
+   <meslek>Koramiral</meslek>
+   <meslek>Koreograf</meslek>
+   <meslek>Korgeneral</meslek>
+   <meslek>Koro Ustası</meslek>
+   <meslek>Korozyon Kontrolörü</meslek>
+   <meslek>Korsan</meslek>
+   <meslek>Koruma Görevlisi</meslek>
+   <meslek>Koruma Teknisyeni</meslek>
+   <meslek>Kozmetoloji Uzmanı</meslek>
+   <meslek>Kozmolog</meslek>
+   <meslek>Krayobiyolog</meslek>
+   <meslek>Kreatif Danışman</meslek>
+   <meslek>Kredi Analisti</meslek>
+   <meslek>Kriminolog</meslek>
+   <meslek>Kriptopara Madencisi</meslek>
+   <meslek>Kriptozoolog</meslek>
+   <meslek>Kronobiyolog</meslek>
+   <meslek>Kronolog</meslek>
+   <meslek>Krupiyer</meslek>
+   <meslek>Kuaför</meslek>
+   <meslek>Kulak Burun Boğazcı</meslek>
+   <meslek>Kullanıcı Deneyimi (UX) Tasarımcısı</meslek>
+   <meslek>Kumarbaz</meslek>
+   <meslek>Kumaşçı</meslek>
+   <meslek>Kumcu</meslek>
+   <meslek>Kurban Bilimci</meslek>
+   <meslek>Kuru Temizlemeci</meslek>
+   <meslek>Kuruyemişçi</meslek>
+   <meslek>Kurye</meslek>
+   <meslek>Kuyumcu</meslek>
+   <meslek>Kuşçu</meslek>
+   <meslek>Kâhya</meslek>
+   <meslek>Kâtip</meslek>
+   <meslek>Kâğıtçı</meslek>
+   <meslek>Köfteci</meslek>
+   <meslek>Kök Hücre Araştırıcısı</meslek>
+   <meslek>Köken Bilimci</meslek>
+   <meslek>Kömürcü</meslek>
+   <meslek>Köpek Eğiticisi</meslek>
+   <meslek>Köşe Yazarı</meslek>
+   <meslek>Kültürel Antropolog</meslek>
+   <meslek>Kürkçü</meslek>
+   <meslek>Kütleçekim Fizikçisi</meslek>
+   <meslek>Kütüphaneci</meslek>
+   <meslek>Kırtasiyeci</meslek>
+   <meslek>Kıyaslamalı Edebiyat Uzmanı</meslek>
+   <meslek>Laborant</meslek>
+   <meslek>Laboratuar işçisi</meslek>
+   <meslek>Laboratuvar Asistanı</meslek>
+   <meslek>Laboratuvar Okutmanı</meslek>
+   <meslek>Laboratuvar Teknisyeni</meslek>
+   <meslek>Laboratuvar Yöneticisi</meslek>
+   <meslek>Lahmacuncu</meslek>
+   <meslek>Lehimci</meslek>
+   <meslek>Leksikolog</meslek>
+   <meslek>Lepidopterolog</meslek>
+   <meslek>Levazımcı</meslek>
+   <meslek>Likenolog</meslek>
+   <meslek>Limnolog</meslek>
+   <meslek>Litograf</meslek>
+   <meslek>Liturjiolog</meslek>
+   <meslek>Lobici</meslek>
+   <meslek>Lojistik Uzmanı</meslek>
+   <meslek>Lokantacı</meslek>
+   <meslek>Lokman</meslek>
+   <meslek>Lokomotifçi</meslek>
+   <meslek>Lostracı</meslek>
+   <meslek>Lostromo</meslek>
+   <meslek>Lyft Şoförü</meslek>
+   <meslek>Maden Hava Kontrol Teknisyeni</meslek>
+   <meslek>Madenci</meslek>
+   <meslek>Makastar</meslek>
+   <meslek>Makasçı</meslek>
+   <meslek>Maketçi</meslek>
+   <meslek>Makina Denetçisi</meslek>
+   <meslek>Makina Mühendisi</meslek>
+   <meslek>Makina Zabiti</meslek>
+   <meslek>Makina Öğrenmesi Araştırmacısı</meslek>
+   <meslek>Makinist</meslek>
+   <meslek>Makroekonomi Uzmanı</meslek>
+   <meslek>Makyajcı</meslek>
+   <meslek>Mali Hizmetler Uzmanı</meslek>
+   <meslek>Mali İşler Müdürü (CFO)</meslek>
+   <meslek>Manastır Baş Rahibesi</meslek>
+   <meslek>Manav</meslek>
+   <meslek>Manifaturacı</meslek>
+   <meslek>Manikürcü</meslek>
+   <meslek>Manken</meslek>
+   <meslek>Mantık Bilimci</meslek>
+   <meslek>Mantık Matematikçisi</meslek>
+   <meslek>Marangoz</meslek>
+   <meslek>Mareşal</meslek>
+   <meslek>Marka Tasarımcısı</meslek>
+   <meslek>Marka Uzmanı</meslek>
+   <meslek>Marka Yöneticisi</meslek>
+   <meslek>Masör</meslek>
+   <meslek>Masöz</meslek>
+   <meslek>Matador</meslek>
+   <meslek>Matbaacı</meslek>
+   <meslek>Matematiksel Analiz Uzmanı</meslek>
+   <meslek>Matematiksel Sosyolog</meslek>
+   <meslek>Matematikçi</meslek>
+   <meslek>Matkapçı</meslek>
+   <meslek>Medeni Hukuk Avukatı</meslek>
+   <meslek>Mekatronik Mühendisi</meslek>
+   <meslek>Memur</meslek>
+   <meslek>Menajer</meslek>
+   <meslek>Mermerci</meslek>
+   <meslek>Metal İşleyici</meslek>
+   <meslek>Metal İşçisi</meslek>
+   <meslek>Metalurji Mühendisi</meslek>
+   <meslek>Meteorolog</meslek>
+   <meslek>Meteoroloji Uzmanı</meslek>
+   <meslek>Metin Yazarı</meslek>
+   <meslek>Metodolog</meslek>
+   <meslek>Metrolog</meslek>
+   <meslek>Mevsimlik İşçi</meslek>
+   <meslek>Meydancı</meslek>
+   <meslek>Meyhaneci</meslek>
+   <meslek>Meyve İşçisi</meslek>
+   <meslek>Mezar Kazıcı</meslek>
+   <meslek>Mezarcı</meslek>
+   <meslek>Midyeci</meslek>
+   <meslek>Mikolog</meslek>
+   <meslek>Mikrobiyal Sistem Mühendisi</meslek>
+   <meslek>Mikrobiyolog</meslek>
+   <meslek>Mikroekonomi Uzmanı</meslek>
+   <meslek>Mikromorfolog</meslek>
+   <meslek>Milletvekili</meslek>
+   <meslek>Mimar</meslek>
+   <meslek>Misyoner</meslek>
+   <meslek>Mitolog</meslek>
+   <meslek>Mobil Uygulama (App) Geliştiricisi</meslek>
+   <meslek>Mobil Uygulama (App) Tasarımcısı</meslek>
+   <meslek>Mobilyacı</meslek>
+   <meslek>Moda Tasarımcısı</meslek>
+   <meslek>Modacı</meslek>
+   <meslek>Model</meslek>
+   <meslek>Modelci</meslek>
+   <meslek>Modelist</meslek>
+   <meslek>Moderatör</meslek>
+   <meslek>Moleküler Bilimci</meslek>
+   <meslek>Moleküler Biyolog</meslek>
+   <meslek>Moleküler Fizikçi</meslek>
+   <meslek>Moleküler ve Hücresel Sinirbilimci</meslek>
+   <meslek>Montajcı</meslek>
+   <meslek>Montör</meslek>
+   <meslek>Morfolog</meslek>
+   <meslek>Motor Tamircisi</meslek>
+   <meslek>Motorcu</meslek>
+   <meslek>Muallim</meslek>
+   <meslek>Mucit</meslek>
+   <meslek>Muhabbet Tellalı</meslek>
+   <meslek>Muhabir</meslek>
+   <meslek>Muhafız</meslek>
+   <meslek>Muhasebeci</meslek>
+   <meslek>Muhtar</meslek>
+   <meslek>Multimedya Tasarımcısı</meslek>
+   <meslek>Mumyalayıcı</meslek>
+   <meslek>Muzcu</meslek>
+   <meslek>Mübaşir</meslek>
+   <meslek>Müdür</meslek>
+   <meslek>Müdür Yardımcısı</meslek>
+   <meslek>Müezzin</meslek>
+   <meslek>Müfettiş</meslek>
+   <meslek>Mühendis</meslek>
+   <meslek>Mühendislik Teknisyeni</meslek>
+   <meslek>Mürebbiye</meslek>
+   <meslek>Müsteşar</meslek>
+   <meslek>Müteahhit</meslek>
+   <meslek>Mütercim</meslek>
+   <meslek>Müze Bilimci</meslek>
+   <meslek>Müze Müdürü</meslek>
+   <meslek>Müzik Bilimci</meslek>
+   <meslek>Müzik Direktörü</meslek>
+   <meslek>Müzik Enstrümanı Teknsiyeni</meslek>
+   <meslek>Müzik Yönetmeni</meslek>
+   <meslek>Müzikolog</meslek>
+   <meslek>Müzisyen</meslek>
+   <meslek>Müşavir</meslek>
+   <meslek>Nakliyeci</meslek>
+   <meslek>Nakışçı</meslek>
+   <meslek>Nalbant</meslek>
+   <meslek>Nalbur</meslek>
+   <meslek>Nalıncı</meslek>
+   <meslek>Nanobilimci</meslek>
+   <meslek>Nanoteknoloji Uzmanı</meslek>
+   <meslek>Nefrolog</meslek>
+   <meslek>Nekrolog</meslek>
+   <meslek>Nematolog</meslek>
+   <meslek>Neonatolog</meslek>
+   <meslek>Nicel Genetikçi</meslek>
+   <meslek>Noter</meslek>
+   <meslek>Nörofizyolog</meslek>
+   <meslek>Nöropatolog</meslek>
+   <meslek>Nöropsikolog</meslek>
+   <meslek>Nöroradyolog</meslek>
+   <meslek>Nükleer Fizikçi</meslek>
+   <meslek>Nükleer Santral Çalışanı</meslek>
+   <meslek>Obuacı</meslek>
+   <meslek>Ocakçı</meslek>
+   <meslek>Odacı</meslek>
+   <meslek>Oduncu</meslek>
+   <meslek>Okul Bilim Teknisyeni</meslek>
+   <meslek>Okul Müdürü</meslek>
+   <meslek>Okutman</meslek>
+   <meslek>Okçu</meslek>
+   <meslek>Olasılık İstatistikçisi</meslek>
+   <meslek>Onbaşı</meslek>
+   <meslek>Onkolog</meslek>
+   <meslek>Onkoloji Araştırmacısı</meslek>
+   <meslek>Onomatolog</meslek>
+   <meslek>Ontolog</meslek>
+   <meslek>Opera Sanatçısı</meslek>
+   <meslek>Operasyon Araştırma Analizi Yöneticisi</meslek>
+   <meslek>Operasyon Birim Müdürü</meslek>
+   <meslek>Operasyon Memuru</meslek>
+   <meslek>Operasyonel Araştırma Mühendisi</meslek>
+   <meslek>Operatör</meslek>
+   <meslek>Optalmolog</meslek>
+   <meslek>Optik Fizikçi</meslek>
+   <meslek>Ordinaryus Profesör</meslek>
+   <meslek>Organik Laboratuvar İşçisi</meslek>
+   <meslek>Organizasyon Lideri</meslek>
+   <meslek>Orgcu</meslek>
+   <meslek>Orgeneral</meslek>
+   <meslek>Orman Mühendisi</meslek>
+   <meslek>Orman İşçisi</meslek>
+   <meslek>Ornitolog (Kuş Bilimci)</meslek>
+   <meslek>Ortopedist</meslek>
+   <meslek>Osteolog</meslek>
+   <meslek>Otel Çalışanı</meslek>
+   <meslek>Otel İşçisi</meslek>
+   <meslek>Otelci</meslek>
+   <meslek>Oto Elektrikçisi</meslek>
+   <meslek>Oto Lastik Tamircisi</meslek>
+   <meslek>Oto Tamircisi</meslek>
+   <meslek>Oto Yedek Parçacı</meslek>
+   <meslek>Otogar veya Lokanta Ayakçısı</meslek>
+   <meslek>Otolarinjolog</meslek>
+   <meslek>Otomobil Elektrik Uzmanı</meslek>
+   <meslek>Otomobil Teknisyeni</meslek>
+   <meslek>Overlokçu</meslek>
+   <meslek>Oymacı</meslek>
+   <meslek>Oyun Hostesi</meslek>
+   <meslek>Oyun Yazarı</meslek>
+   <meslek>Oyuncakçı</meslek>
+   <meslek>Oyuncu</meslek>
+   <meslek>Oşinograf</meslek>
+   <meslek>Paketleyici</meslek>
+   <meslek>Paleobiyolog</meslek>
+   <meslek>Paleoekolog</meslek>
+   <meslek>Paleontolog</meslek>
+   <meslek>Paleopatalog</meslek>
+   <meslek>Paleozoolog</meslek>
+   <meslek>Palinolog</meslek>
+   <meslek>Palyaço</meslek>
+   <meslek>Pandomimci</meslek>
+   <meslek>Pansiyoncu</meslek>
+   <meslek>Pansumancı</meslek>
+   <meslek>Papa</meslek>
+   <meslek>Papaz</meslek>
+   <meslek>Paralı asker</meslek>
+   <meslek>Paramedik</meslek>
+   <meslek>Parazitolog</meslek>
+   <meslek>Park bekçisi</meslek>
+   <meslek>Pastörizör</meslek>
+   <meslek>Patofizyolog</meslek>
+   <meslek>Patolog</meslek>
+   <meslek>Pazar Araştırmacısı</meslek>
+   <meslek>Pazarcı</meslek>
+   <meslek>Pazarlama Müdürü</meslek>
+   <meslek>Pazarlama Uzmanı</meslek>
+   <meslek>Pediyatrist</meslek>
+   <meslek>Pedolog</meslek>
+   <meslek>Pencereci</meslek>
+   <meslek>Personel Müdürü</meslek>
+   <meslek>Perukçu</meslek>
+   <meslek>Petrol Bilimci</meslek>
+   <meslek>Petrol Mühendisi</meslek>
+   <meslek>Peynirci</meslek>
+   <meslek>Peyzaj Mimarı</meslek>
+   <meslek>Peyzaj Teknikeri</meslek>
+   <meslek>Peçeteci</meslek>
+   <meslek>Pideci</meslek>
+   <meslek>Pilavcı</meslek>
+   <meslek>Pilot</meslek>
+   <meslek>Piskopos</meslek>
+   <meslek>Piyade</meslek>
+   <meslek>Piyango Satıcısı</meslek>
+   <meslek>Piyanist</meslek>
+   <meslek>Piyasa Danışmanı</meslek>
+   <meslek>Piyasa Erişim Analisti</meslek>
+   <meslek>Pizzacı</meslek>
+   <meslek>Plazma Fizikçisi</meslek>
+   <meslek>Podcast Üreticisi</meslek>
+   <meslek>Polis</meslek>
+   <meslek>Polis Memuru</meslek>
+   <meslek>Polis İmdat (155) Operatörü</meslek>
+   <meslek>Polis Şefi</meslek>
+   <meslek>Polisajcı</meslek>
+   <meslek>Politik Modeller ve Metotlar Uzmanı</meslek>
+   <meslek>Politika Bilimcisi</meslek>
+   <meslek>Politika Teorisyeni</meslek>
+   <meslek>Politikacı</meslek>
+   <meslek>Pompacı</meslek>
+   <meslek>Popülasyon Genetikçisi</meslek>
+   <meslek>Postacı</meslek>
+   <meslek>Postane Müdürü</meslek>
+   <meslek>Postane Çalışanı</meslek>
+   <meslek>Primatolog</meslek>
+   <meslek>Profesyonel Programlar Asistanı</meslek>
+   <meslek>Profesör</meslek>
+   <meslek>Programlama Dilleri Uzmanı</meslek>
+   <meslek>Proje Yöneticisi</meslek>
+   <meslek>Proktolog</meslek>
+   <meslek>Protokol Görevlisi</meslek>
+   <meslek>Protozoolog</meslek>
+   <meslek>Psikiyatr</meslek>
+   <meslek>Psikobiyolog</meslek>
+   <meslek>Psikodilbilimci</meslek>
+   <meslek>Psikolog</meslek>
+   <meslek>Psikolojik Danışmanlık ve Rehberlik (PDR)</meslek>
+   <meslek>Psikopatolog</meslek>
+   <meslek>Pteridolog</meslek>
+   <meslek>Radyo ve Televizyon Teknisyeni</meslek>
+   <meslek>Radyobiyolog</meslek>
+   <meslek>Radyograf</meslek>
+   <meslek>Radyolog</meslek>
+   <meslek>Radyoloji Teknisyeni/Teknikeri</meslek>
+   <meslek>Radyoterapist</meslek>
+   <meslek>Redaktör</meslek>
+   <meslek>Rehabilitasyon Mühendisi</meslek>
+   <meslek>Rehber</meslek>
+   <meslek>Rejisör</meslek>
+   <meslek>Reklamcı</meslek>
+   <meslek>Rektör</meslek>
+   <meslek>Rektör Yardımcısı</meslek>
+   <meslek>Remayözcü</meslek>
+   <meslek>Resepsiyon Memuru</meslek>
+   <meslek>Resepsiyonist</meslek>
+   <meslek>Ressam</meslek>
+   <meslek>Retorik Araştırmalar Uzmanı</meslek>
+   <meslek>Robotik Uzmanı</meslek>
+   <meslek>Robotikçi</meslek>
+   <meslek>Romatolog</meslek>
+   <meslek>Rot Balansçı</meslek>
+   <meslek>Röntgenci</meslek>
+   <meslek>Rötüş Uzmanı</meslek>
+   <meslek>SEO Uzmanı</meslek>
+   <meslek>STEM Kariyer Danışmanı</meslek>
+   <meslek>Saat Tamircisi</meslek>
+   <meslek>Saatçi</meslek>
+   <meslek>Safsata Uzmanı</meslek>
+   <meslek>Sahil Koruma</meslek>
+   <meslek>Saksofoncu</meslek>
+   <meslek>Salepçi</meslek>
+   <meslek>Sanal Asistan</meslek>
+   <meslek>Sanat Eleştirmeni</meslek>
+   <meslek>Sanat Restoratörü</meslek>
+   <meslek>Sanat Tarihçisi</meslek>
+   <meslek>Sanat Yönetmeni</meslek>
+   <meslek>Sanayici</meslek>
+   <meslek>Sansürcü</meslek>
+   <meslek>Santral Memuru</meslek>
+   <meslek>Saraç</meslek>
+   <meslek>Sarraf</meslek>
+   <meslek>Satın Alma Müdürü</meslek>
+   <meslek>Satış Elemanı</meslek>
+   <meslek>Satış Müdürü</meslek>
+   <meslek>Savaşçı</meslek>
+   <meslek>Savcı</meslek>
+   <meslek>Sayı Teorisyeni</meslek>
+   <meslek>Saz Şairi</meslek>
+   <meslek>Sağlık Araştırmaları Asistanı</meslek>
+   <meslek>Sağlık Bilimci</meslek>
+   <meslek>Sağlık Teknisyeni</meslek>
+   <meslek>Sağlık Teknolojiileri Asistanı</meslek>
+   <meslek>Sedimentolog</meslek>
+   <meslek>Sekreter</meslek>
+   <meslek>Seksolog</meslek>
+   <meslek>Selüloz Operatörü</meslek>
+   <meslek>Semantikçi</meslek>
+   <meslek>Semptom Bilimci</meslek>
+   <meslek>Senarist</meslek>
+   <meslek>Sepetçi</meslek>
+   <meslek>Seramik Model Yapıcısı</meslek>
+   <meslek>Serbest Muhasebeci Mali Müşavir</meslek>
+   <meslek>Serbest Yazar</meslek>
+   <meslek>Ses Bilimci</meslek>
+   <meslek>Ses Efekti Teknisyeni</meslek>
+   <meslek>Ses Sanatçısı</meslek>
+   <meslek>Ses Teknisyeni</meslek>
+   <meslek>Seslendirme Sanatçısı</meslek>
+   <meslek>Sevk Operatörü</meslek>
+   <meslek>Seyis</meslek>
+   <meslek>Siber Güvenlik Uzmanı</meslek>
+   <meslek>Sicil Memuru</meslek>
+   <meslek>Sigorta Temsilcisi</meslek>
+   <meslek>Sigortacı</meslek>
+   <meslek>Sihirbaz</meslek>
+   <meslek>Silahçı</meslek>
+   <meslek>Silahşör</meslek>
+   <meslek>Silindir Operatörü</meslek>
+   <meslek>Simitçi</meslek>
+   <meslek>Simyacı</meslek>
+   <meslek>Sinirbilimci (Nörobiyolog)</meslek>
+   <meslek>Sirk Sanatçısı</meslek>
+   <meslek>Sismoloji Uzmanı</meslek>
+   <meslek>Sistem Analisti</meslek>
+   <meslek>Sistem Geliştirici</meslek>
+   <meslek>Sistem Mühendisi</meslek>
+   <meslek>Sistem Sinirbilimcisi</meslek>
+   <meslek>Sistem Tasarımcısı</meslek>
+   <meslek>Sistem yöneticisi</meslek>
+   <meslek>Sitolog</meslek>
+   <meslek>Sitoteknoloji Uzmanı</meslek>
+   <meslek>Sokak Satıcısı</meslek>
+   <meslek>Sokak Çalgıcısı</meslek>
+   <meslek>Son Ütücü</meslek>
+   <meslek>Sorgu Hâkimi</meslek>
+   <meslek>Sosyal Antropolog</meslek>
+   <meslek>Sosyal Hizmet Uzmanı</meslek>
+   <meslek>Sosyal Katman Uzmanı</meslek>
+   <meslek>Sosyal Medya Danışmanı</meslek>
+   <meslek>Sosyal Medya Uzmanı</meslek>
+   <meslek>Sosyal Medya Yöneticisi</meslek>
+   <meslek>Sosyal Psikolog</meslek>
+   <meslek>Sosyobiyolog</meslek>
+   <meslek>Sosyodilbilimci</meslek>
+   <meslek>Sosyolog</meslek>
+   <meslek>Sosyoloji Teorisyeni</meslek>
+   <meslek>Soğuk Demirci</meslek>
+   <meslek>Spiker</meslek>
+   <meslek>Spor Müdürü</meslek>
+   <meslek>Standart Mühendisi</meslek>
+   <meslek>Stenograf</meslek>
+   <meslek>Stilist</meslek>
+   <meslek>Striptizci</meslek>
+   <meslek>Su Kaynakları Mühendisi</meslek>
+   <meslek>Su Kültürü Uzmanı</meslek>
+   <meslek>Su Tesisatçısı</meslek>
+   <meslek>Su Ürünleri Uzmanı</meslek>
+   <meslek>Subay</meslek>
+   <meslek>Sucu</meslek>
+   <meslek>Suflör</meslek>
+   <meslek>Sulh Hâkimi</meslek>
+   <meslek>Sunucu</meslek>
+   <meslek>Susuz Araç Yıkama</meslek>
+   <meslek>Sünnetçi</meslek>
+   <meslek>Süpermarket Çalışanı</meslek>
+   <meslek>Sürdürülebilirlik Mühendisi</meslek>
+   <meslek>Sürdürülebilirlik Yöneticisi</meslek>
+   <meslek>Süreç Mühendisi</meslek>
+   <meslek>Sürveyan</meslek>
+   <meslek>Sürücüsüz Araç Mühendisi</meslek>
+   <meslek>Sütanne</meslek>
+   <meslek>Sütçü</meslek>
+   <meslek>Sınırlı Baş Makinist</meslek>
+   <meslek>Sıtma Bilimci</meslek>
+   <meslek>Tabakçı</meslek>
+   <meslek>Tabelacı</meslek>
+   <meslek>Tahsildar</meslek>
+   <meslek>Tahıl Bilimcisi</meslek>
+   <meslek>Tahıl Uzmanı</meslek>
+   <meslek>Tahıl İşleme Operatörü</meslek>
+   <meslek>Taksi Şoförü</meslek>
+   <meslek>Taksici</meslek>
+   <meslek>Taksonomist</meslek>
+   <meslek>Tamirci</meslek>
+   <meslek>Tarih Bilimci</meslek>
+   <meslek>Tarihsel Dilbilimci</meslek>
+   <meslek>Tarihsel Sosyolog</meslek>
+   <meslek>Tarihçi</meslek>
+   <meslek>Tarım Mühendisi</meslek>
+   <meslek>Tarım işçisi</meslek>
+   <meslek>Tasarımcı</meslek>
+   <meslek>Tatlıcı</meslek>
+   <meslek>Tavukçu</meslek>
+   <meslek>Tayfa</meslek>
+   <meslek>Taşlayıcı</meslek>
+   <meslek>Taşçı</meslek>
+   <meslek>Taşımacılık Sistemleri Mühendisi</meslek>
+   <meslek>Tefeci</meslek>
+   <meslek>Teknik Editör</meslek>
+   <meslek>Teknik Yazar</meslek>
+   <meslek>Tekniker</meslek>
+   <meslek>Teknisyen</meslek>
+   <meslek>Teknisyen Asistanı</meslek>
+   <meslek>Teknoloji Uzmanı</meslek>
+   <meslek>Tekstil İşçisi</meslek>
+   <meslek>Telefon operatörü</meslek>
+   <meslek>Telekomünikasyon Mühendisi</meslek>
+   <meslek>Telekomünikasyon Çalışanı</meslek>
+   <meslek>Telekız</meslek>
+   <meslek>Teletıp Hekimi</meslek>
+   <meslek>Televizyon Tamircisi</meslek>
+   <meslek>Temel Parçacık Fizikçisi</meslek>
+   <meslek>Temizlikçi</meslek>
+   <meslek>Temsilci</meslek>
+   <meslek>Teorik Biyolog</meslek>
+   <meslek>Teorik Fizikçi</meslek>
+   <meslek>Terapist</meslek>
+   <meslek>Tercüman</meslek>
+   <meslek>Terepati Müdürü</meslek>
+   <meslek>Terzi</meslek>
+   <meslek>Tesisatçı</meslek>
+   <meslek>Test Mühendisi</meslek>
+   <meslek>Test Pilotu</meslek>
+   <meslek>Tesviyeci</meslek>
+   <meslek>Tezgahtar</meslek>
+   <meslek>Teğmen</meslek>
+   <meslek>Teşrifatçı</meslek>
+   <meslek>Ticaret Hukuku Avukatı</meslek>
+   <meslek>Tiyatro Yönetmeni</meslek>
+   <meslek>Toksikolog</meslek>
+   <meslek>Tombalacı</meslek>
+   <meslek>Toplam Kalite Müdürü</meslek>
+   <meslek>Toplum Politikaları Uzmanı</meslek>
+   <meslek>Toplum Sağlığı Uzmanı</meslek>
+   <meslek>Toplumsal Beslenme Uzmanı</meslek>
+   <meslek>Topolog</meslek>
+   <meslek>Toprak Bilimci</meslek>
+   <meslek>Topçu</meslek>
+   <meslek>Tornacı</meslek>
+   <meslek>Toz Kontrol Teknisyeni</meslek>
+   <meslek>Tramvay Operatörü</meslek>
+   <meslek>Tribolog</meslek>
+   <meslek>Tuhafiyeci</meslek>
+   <meslek>Turizm Acentesi</meslek>
+   <meslek>Turizmci</meslek>
+   <meslek>Turşucu</meslek>
+   <meslek>Tuzcu</meslek>
+   <meslek>Tuğgeneral</meslek>
+   <meslek>Tuğlacı</meslek>
+   <meslek>Twitch Yayıncısı</meslek>
+   <meslek>Tümamiral</meslek>
+   <meslek>Tümgeneral</meslek>
+   <meslek>Tıbbi Araştırma Teknisyeni</meslek>
+   <meslek>Tıbbi Fizik Araştırmacısı</meslek>
+   <meslek>Tıbbi Hizmetler Asistanı</meslek>
+   <meslek>Tıbbi İletişim Müdürü</meslek>
+   <meslek>Tıp Bilimci</meslek>
+   <meslek>Tıp Yazarı</meslek>
+   <meslek>Uber Şoförü</meslek>
+   <meslek>Ulaşım Sorumlusu</meslek>
+   <meslek>Uluslararası Beslenme Uzmanı</meslek>
+   <meslek>Uluslararası Ekonomist</meslek>
+   <meslek>Uluslararası İlişkiler Uzmanı</meslek>
+   <meslek>Ustabaşı</meslek>
+   <meslek>Uydu Antenci</meslek>
+   <meslek>Uydu Veri Analisti</meslek>
+   <meslek>Uygulamalı Dilbilimci</meslek>
+   <meslek>Uygulamalı Fizikçi</meslek>
+   <meslek>Uygulamalı Matematikçi</meslek>
+   <meslek>Uyum Teknisyeni</meslek>
+   <meslek>Uzay Bilimcisi</meslek>
+   <meslek>Uzay Biyologu</meslek>
+   <meslek>Uzay Fotoğrafçısı (Astrofotoğrafçı)</meslek>
+   <meslek>Uzay Mühendisi</meslek>
+   <meslek>Uzman Jandarma</meslek>
+   <meslek>Uzman Onbaşı</meslek>
+   <meslek>Uzman Çavuş</meslek>
+   <meslek>Uzun Yol Kaptanı</meslek>
+   <meslek>Uzun Yol Şoförü</meslek>
+   <meslek>Uçak Mekaniği</meslek>
+   <meslek>Uçak Pilotu</meslek>
+   <meslek>Uçuş Mühendisi</meslek>
+   <meslek>Uçuş Teknisyeni</meslek>
+   <meslek>Uşak</meslek>
+   <meslek>Vahşiyaşam Araştırmacısı</meslek>
+   <meslek>Vaiz</meslek>
+   <meslek>Vali</meslek>
+   <meslek>Vatman</meslek>
+   <meslek>Vergi Müfettişi</meslek>
+   <meslek>Vergi Tahakkuk Memuru</meslek>
+   <meslek>Vergi denetmeni</meslek>
+   <meslek>Veri Bilimci</meslek>
+   <meslek>Veri Hazırlama ve Kontrol İşletmeni</meslek>
+   <meslek>Veri Madencisi</meslek>
+   <meslek>Veritabanı Yöneticisi</meslek>
+   <meslek>Vestiyerci</meslek>
+   <meslek>Veteriner Hekim</meslek>
+   <meslek>Veteriner Sağlık Teknikeri</meslek>
+   <meslek>Veteriner Sağlık Teknisyeni</meslek>
+   <meslek>Veznedar</meslek>
+   <meslek>Video Editörü</meslek>
+   <meslek>Video Jockey (VJ)</meslek>
+   <meslek>Videograf</meslek>
+   <meslek>Vinç Operatörü</meslek>
+   <meslek>Virolog</meslek>
+   <meslek>Vitrinci</meslek>
+   <meslek>Viyolonselci</meslek>
+   <meslek>Vulkanolog</meslek>
+   <meslek>Yapay Zeka Mühendisi</meslek>
+   <meslek>Yapay Zeka Uzmanı</meslek>
+   <meslek>Yapı Mühendisi</meslek>
+   <meslek>Yapısal Biyolog</meslek>
+   <meslek>Yarbay</meslek>
+   <meslek>Yardımcı Doçent</meslek>
+   <meslek>Yardımcı Hakem</meslek>
+   <meslek>Yardımcı Hizmetli</meslek>
+   <meslek>Yardımcı Pilot</meslek>
+   <meslek>Yargıç</meslek>
+   <meslek>Yatırım Uzmanı</meslek>
+   <meslek>Yayın Yönetmeni</meslek>
+   <meslek>Yayıncı</meslek>
+   <meslek>Yazar</meslek>
+   <meslek>Yazı İşleri Müdürü</meslek>
+   <meslek>Yazılım Geliştirici</meslek>
+   <meslek>Yazılım Geliştiricisi</meslek>
+   <meslek>Yazılım Mühendisi</meslek>
+   <meslek>Yaşam Koçu</meslek>
+   <meslek>Yelkenci</meslek>
+   <meslek>Yeminli Mali Müşavir</meslek>
+   <meslek>Yeminli Tercüman</meslek>
+   <meslek>Yer Gösterici</meslek>
+   <meslek>Yer Teknisyeni</meslek>
+   <meslek>Yeraltı Suları Teknisyeni</meslek>
+   <meslek>Yerölçmeci</meslek>
+   <meslek>Yol bekçisi</meslek>
+   <meslek>Yol İşaret Asistanı</meslek>
+   <meslek>Yorgancı</meslek>
+   <meslek>Yorumcu</meslek>
+   <meslek>YouTube İçerik Üreticisi (YouTuber)</meslek>
+   <meslek>Yoğun Hal Fizikçisi</meslek>
+   <meslek>Yoğurtçu</meslek>
+   <meslek>Yönetici</meslek>
+   <meslek>Yönetim Kurulu Başkanı (CEO)</meslek>
+   <meslek>Yönetmen</meslek>
+   <meslek>Yüzbaşı</meslek>
+   <meslek>Yüzücü</meslek>
+   <meslek>Yıkıcı</meslek>
+   <meslek>Zabıta</meslek>
+   <meslek>Zoolog</meslek>
+   <meslek>Çamaşırcı</meslek>
+   <meslek>Çantacı</meslek>
+   <meslek>Çarkçı</meslek>
+   <meslek>Çatıcı</meslek>
+   <meslek>Çavuş</meslek>
+   <meslek>Çaycı</meslek>
+   <meslek>Çevik Kuvvet</meslek>
+   <meslek>Çevirmen</meslek>
+   <meslek>Çevre Acil Durum Planlayıcısı</meslek>
+   <meslek>Çevre Mühendisi</meslek>
+   <meslek>Çevre Projeleri Analisti</meslek>
+   <meslek>Çevre Sağlığı Uzmanı</meslek>
+   <meslek>Çevre Uzmanı</meslek>
+   <meslek>Çevre Veri Analisti</meslek>
+   <meslek>Çevrebilimci</meslek>
+   <meslek>Çeyizci</meslek>
+   <meslek>Çeşitlilik Dilbilimcisi</meslek>
+   <meslek>Çiftlik İşletici</meslek>
+   <meslek>Çiftçi</meslek>
+   <meslek>Çikolatacı</meslek>
+   <meslek>Çilingir</meslek>
+   <meslek>Çinici</meslek>
+   <meslek>Çitçi</meslek>
+   <meslek>Çiçekçi</meslek>
+   <meslek>Çoban</meslek>
+   <meslek>Çocuk Doktoru</meslek>
+   <meslek>Çocuk Hemşiresi</meslek>
+   <meslek>Çorapçı</meslek>
+   <meslek>Çömlekçi</meslek>
+   <meslek>Çöp işçisi</meslek>
+   <meslek>Çöpçü</meslek>
+   <meslek>Çıkrıkçı</meslek>
+   <meslek>Çıkıkçı</meslek>
+   <meslek>Çırak</meslek>
+   <meslek>Ön Büro Elemanı</meslek>
+   <meslek>Ön Muhasebe Sorumlusu</meslek>
+   <meslek>Ön Muhasebe Yardımcı Elemanı</meslek>
+   <meslek>Ön Muhasebeci</meslek>
+   <meslek>Ön Site Geliştiricisi</meslek>
+   <meslek>Örmeci</meslek>
+   <meslek>Özel Kalem Müdürü</meslek>
+   <meslek>Özel Sektör Çalışanı</meslek>
+   <meslek>Özel Şoför</meslek>
+   <meslek>Öğrenci</meslek>
+   <meslek>Öğretim Elemanı</meslek>
+   <meslek>Öğretim Görevlisi</meslek>
+   <meslek>Öğretim Üyesi</meslek>
+   <meslek>Öğretmen</meslek>
+   <meslek>Üretici</meslek>
+   <meslek>Ürolog</meslek>
+   <meslek>Ürün Deneticisi</meslek>
+   <meslek>Ürün Mühendisi</meslek>
+   <meslek>Ürün Test Müdürü</meslek>
+   <meslek>Ürün Test Uzmanı</meslek>
+   <meslek>Üst Düzey Yönetici</meslek>
+   <meslek>Üsteğmen</meslek>
+   <meslek>Ütücü</meslek>
+   <meslek>Üzümcü</meslek>
+   <meslek>İcra Avukatı</meslek>
+   <meslek>İcra Memuru</meslek>
+   <meslek>İdeolog</meslek>
+   <meslek>İhracatçı</meslek>
+   <meslek>İhtiyolog (Balık Bilimci)</meslek>
+   <meslek>İklim Veri Analisti</meslek>
+   <meslek>İktisatçı</meslek>
+   <meslek>İlahiyatçı</meslek>
+   <meslek>İlaç Denetim İşleri Yöneticisi</meslek>
+   <meslek>İlaç Denetmeni</meslek>
+   <meslek>İlaç Kimyageri</meslek>
+   <meslek>İletişim Araştırmacısı</meslek>
+   <meslek>İletişim Mühendisi</meslek>
+   <meslek>İllüzyonist</meslek>
+   <meslek>İmam</meslek>
+   <meslek>İmmünolog</meslek>
+   <meslek>İmmünopatolog</meslek>
+   <meslek>İnsan Faktörleri Mühendisi</meslek>
+   <meslek>İnsan Kaynakları Uzmanı</meslek>
+   <meslek>İnşaat Mühendisi</meslek>
+   <meslek>İnşaatçı</meslek>
+   <meslek>İplikçi</meslek>
+   <meslek>İpçi</meslek>
+   <meslek>İstatistik Teorisyeni</meslek>
+   <meslek>İstatistikçi</meslek>
+   <meslek>İstihkâmcı</meslek>
+   <meslek>İtfaiye</meslek>
+   <meslek>İtfaiyeci</meslek>
+   <meslek>İthalatçı</meslek>
+   <meslek>İç Mimar</meslek>
+   <meslek>İçerik Moderatörü</meslek>
+   <meslek>İçerik Pazarlayıcı</meslek>
+   <meslek>İçerik Üreticisi</meslek>
+   <meslek>İğneci</meslek>
+   <meslek>İş Analisti</meslek>
+   <meslek>İş Ekonomisti</meslek>
+   <meslek>İş Sistem Analisti</meslek>
+   <meslek>İş ve Uğraşı Terapisti</meslek>
+   <meslek>İşaretçi</meslek>
+   <meslek>İşlem Danışmanı</meslek>
+   <meslek>İşletme Mühendisi</meslek>
+   <meslek>İşletmeci</meslek>
+   <meslek>İşportacı</meslek>
+   <meslek>İşçi</meslek>
+   <meslek>Şahinci</meslek>
+   <meslek>Şair</meslek>
+   <meslek>Şapel Papazı</meslek>
+   <meslek>Şapkacı</meslek>
+   <meslek>Şarap Üreticisi</meslek>
+   <meslek>Şarapçı</meslek>
+   <meslek>Şarküter</meslek>
+   <meslek>Şarküteri, Gıda Pazarları ve Bakkal Satış Elemanı</meslek>
+   <meslek>Şarkı Sözü Yazarı</meslek>
+   <meslek>Şarkıcı</meslek>
+   <meslek>Şarlatan</meslek>
+   <meslek>Şehir Plancısı</meslek>
+   <meslek>Şehir ve Bölge Planlama</meslek>
+   <meslek>Şekerci</meslek>
+   <meslek>Şemsiyeci</meslek>
+   <meslek>Şifre Çözücü</meslek>
+   <meslek>Şifre Çözümleyici</meslek>
+   <meslek>Şimşirci</meslek>
+   <meslek>Şirket Avukatı</meslek>
+   <meslek>Şoför</meslek>
+</meslekler>
